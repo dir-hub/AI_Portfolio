@@ -15,4 +15,6 @@ Welcome to my AI-Powered Portfolio Website! This project is a modern, responsive
 - **JavaScript**: Handling navigation, theme toggling, and chatbot functionality with asynchronous API calls.
 - **Gemini API**: Powers the chatbot with natural language responses.
 
+## Live Demo
+Check out the live site here: https://portfolio-page-with-ai-chatbot.web.app/
 
